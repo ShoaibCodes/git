@@ -1,2 +1,3 @@
-let a = 25;
+let a = 35;
 const b = 30;
+let c = 50;
